@@ -58,7 +58,7 @@ body {
 .key:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
 
 .key--muted { background: #a5a5a5; color: #1c1c1e; }
-.key--accent { background: #ff9f0a; }
+.key--accent { background: #6c5ce7; }
 .key--active { background: #fff; color: #ff9f0a; }
 
 .key--wide {
