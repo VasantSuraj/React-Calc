@@ -1,0 +1,18 @@
+# Dependencies (reinstalled with npm install)
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+*.log
+
+# Environment files (never commit secrets)
+.env
+.env.*
+
+# Editor / OS files
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
